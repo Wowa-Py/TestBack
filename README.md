@@ -27,7 +27,9 @@
 
 
 Примечание: в крайнем коммите создан суперпользователь (python manage.py createsuperuser)
+
 Username: admin
+
 Рassword: 12345
 
 
